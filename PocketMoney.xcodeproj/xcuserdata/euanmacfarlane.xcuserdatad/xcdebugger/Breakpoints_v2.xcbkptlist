@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DDEA7F8D-D164-4C47-92DD-40F111705AF1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "125F07F0-0A39-4943-BE5E-278861CD88D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PocketMoney/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "getWeek(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8137BA4-C115-402E-B342-AB2A0FF41FEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PocketMoney/UserProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D8137BA4-C115-402E-B342-AB2A0FF41FEB - efe8d4836687bd8b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PocketMoney.UserProfile.deleteTask(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "PocketMoney"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/euanmacfarlane/Documents/PocketMoney/PocketMoney/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "D8137BA4-C115-402E-B342-AB2A0FF41FEB - 92553efea5e65fb0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in PocketMoney_PreviewReplacement_UserProfile_6):PocketMoney.UserProfile.(__preview__deleteTask in _BC40F49C055FF5539EFD76F01F8B0F2A)(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "UserProfile.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/euanmacfarlane/Documents/PocketMoney/PocketMoney/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A486B5C0-7A90-4FA9-80F4-D4B84C738644"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PocketMoney/UserProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A486B5C0-7A90-4FA9-80F4-D4B84C738644 - 366eb352509694d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PocketMoney.UserProfile.addTask() -&gt; ()"
+                  moduleName = "PocketMoney"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/euanmacfarlane/Documents/PocketMoney/PocketMoney/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "321">
+               </Location>
+               <Location
+                  uuid = "A486B5C0-7A90-4FA9-80F4-D4B84C738644 - f152c070552007b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in PocketMoney_PreviewReplacement_UserProfile_6):PocketMoney.UserProfile.(__preview__addTask in _BC40F49C055FF5539EFD76F01F8B0F2A)() -&gt; ()"
+                  moduleName = "UserProfile.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/euanmacfarlane/Documents/PocketMoney/PocketMoney/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
